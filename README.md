@@ -1,3 +1,3 @@
 # EvalAI
 
-Code for individul task.
+Code for individual task.
